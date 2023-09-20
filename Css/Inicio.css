@@ -1,0 +1,51 @@
+body{
+    background-image: url("/Imagenes/2.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 150px;
+    color: rgba(255, 255, 255, 0.973);
+    margin: -2%;
+    
+}
+
+h2{
+color: rgb(255, 237, 237);
+background-color: rgba(196, 20, 20, 0.692);
+height: 10vh;
+margin: 0%;
+text-align: center;
+}
+
+div{
+    color: white;
+font-size: 30px;
+}
+
+.img1{
+    border-radius: 20px;
+    border: 10px solid black;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 40px;
+    margin-top: 1%;
+}
+
+.img2{
+    border-radius: 20px;
+    border: 10px solid black;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 40px;
+    margin-top: 1%;
+}
+
+.estilo{
+    color: white;
+    font-size: 60px;
+margin-left: 200px;
+}

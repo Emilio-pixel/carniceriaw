@@ -1,0 +1,34 @@
+body{
+    background-image: url(/Imagenes/2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+
+.estilo2{
+    font-size:34px;
+color: rgb(255, 255, 255);
+margin: 50px;
+margin-top: -3%;
+text-align: left;
+}
+
+.estilo3{
+    font-size:36px;
+color: rgb(235, 2, 2);
+margin-left: 50px;
+margin-top: -3%;
+}
+
+.img1{
+    border-radius: 20px;
+    border: 10px solid black;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 40px;
+    margin-top: 1%;
+    
+}
+
+.h1{
+    margin-right: auto;
+}
